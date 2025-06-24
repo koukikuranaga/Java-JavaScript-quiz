@@ -1,3 +1,4 @@
+console.log("JavaScriptが読み込まれました");
 document.getElementById('quizForm').onsubmit = function(event) {
     event.preventDefault();
 
